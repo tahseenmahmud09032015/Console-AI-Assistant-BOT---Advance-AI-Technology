@@ -46,6 +46,11 @@
 
 ---
 
+## ⚠️ Warning
+
+This Project is Need a AI API Key from Groq Cloud,as it was build to only handle API Key from Groq Cloud. (This is Not a Promotion)
+
+---
 
 ✨ Project Developers and Credits
 
